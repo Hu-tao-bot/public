@@ -2,6 +2,12 @@
   <img width="128" height="128" src="./images/logo.png">
   <h1>Hu tao bot</h1>
   <p>Discord bot for get profile, abyss, realtime, etc. from Genshin Impact API.</p>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=937763881152020481&permissions=8&redirect_uri=https%3A%2F%2Fhutao-bot.m307.dev%2Foauth&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://hutao-bot.m307.dev">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </div>
 
 # Feature
@@ -14,7 +20,7 @@
 # Tools
 - [Python](https://www.python.org/)
 - [Redis](https://redis.io/)
-- [MonogDB](https://www.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 # Library (Public)
 ## Discord bot
@@ -37,7 +43,7 @@
 
 # Library (Private)
 - Slash command
-- Genshin Account (Monify from genshin.py)
+- [Genshin Account (Monify from genshin.py)](https://github.com/Hu-tao-bot/genshin.py)
 - FastAPI JWT (Monify from FastAPI JWT Auth)
 - ~~Error tracking~~ **(Deprecated)**
 
@@ -52,19 +58,22 @@ A: I have to use genshin.py library to get data. If you want to see how it works
 A: Yes, it's secure. It's using RSA to encrypt data to save in database.
 
 ## Q: I want to login with third party account (Example: Facebook, Google, etc.). How to do it?
-A: Sorry, I can't do it. Because in Third party account block access another URL login.
+A: Sorry, I can't do it. Because in Third party account block access another URL login. **If you want login with third party account, you must have link email and password to your account.** 
 
 ## Q: I want to login with my account. How to do it?
 A: You can enter site https://hutao-bot.m307.dev to login genshin account.
 
 ## Q: I can't invite bot to my server.
-A: The bot is now rate limited invite from Discord. Please wait 2 - 4 week to waiting get verified bot.
+A: The bot is now rate limited invite from Discord. Please wait 2 - 4 week to waiting get verified bot. **Status: Not verified 😓**
 
-## Q: I see unknow error message. How to do it?
-A: Please contact in Discord server at https://shirabot.xyz/go/hutaosupport
+## Q: Why character's list has shown only 8 character?
+A: Because you have login with UID or HoyolabID. If you want to see all character's list, you have to login with Token or E-mail & Password
 
-## Q: I want to contact with private message.
-A: Please contact with mail at [me@m307.dev](mailto:me@m307.dev)
+## Q: I got error when I use command.
+A: Please capture error screenshot and send to [Discord server](https://shirabot.xyz/go/hutaosupport)
+
+## Q: I want to know more about me.
+A: Please contact via email at [me@m307.dev](mailto:me@m307.dev)
 
 # License
 MIT
