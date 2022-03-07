@@ -68,12 +68,6 @@ A: The bot is now rate limited invite from Discord. Please wait 2 - 4 week to wa
 
 ## Q: Why character's list has shown only 8 character?
 A: Because you have login with UID or HoyolabID. If you want to see all character's list, you have to login with Token or E-mail & Password
-<<<<<<< HEAD
-=======
-
-## Q: I see unknow error message. How to do it?
-A: Please contact in Discord server at https://shirabot.xyz/go/hutaosupport
->>>>>>> 86548818956a572fee43acd735580fcafdc3e8bc
 
 ## Q: I got error when I use command.
 A: Please capture error screenshot and send to [Discord server](https://shirabot.xyz/go/hutaosupport)
