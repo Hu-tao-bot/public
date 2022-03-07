@@ -1,0 +1,17 @@
+# Discord bot
+nextcord==2.0.0a6
+table2ascii==0.1.4
+
+# WebAPI
+fastapi==0.74.0
+
+# Genshin API
+genshin==0.3.1
+
+# Tools
+aioredis==2.0.1
+aiohttp==3.8.1
+PyJWT==2.3.0
+pymongo==4.0.1
+rsa==4.7.2
+sentry-sdk==1.5.4
