@@ -45,6 +45,7 @@
 - Slash command
 - [Genshin Account (Monify from genshin.py)](https://github.com/Hu-tao-bot/genshin.py)
 - FastAPI JWT (Monify from FastAPI JWT Auth)
+- [FastAPI RateLimit (Monify from FastAPI Limiter)](https://github.com/long2ice/fastapi-limiter)
 - ~~Error tracking~~ **(Deprecated)**
 
 # Screenshot
