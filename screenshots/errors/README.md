@@ -11,7 +11,7 @@
 
 ## Abyss floor error (Not found, Range error)
 ![Abyss floor not found](./abyss_floor_not_found.png)
-![Abyss floor range error](./abyss_floor_range_error.png)
+![Abyss floor range error](./abyss_floor_range_exceptions.png)
 
 ## Redeem code error (invaild, already claimed, AR. Low, Cookie Token required)
 ![Redeem code invaild](./redeem_code_invaild_or_expired.png)
