@@ -45,7 +45,7 @@
 - Slash command
 - [Genshin Account (Monify from genshin.py)](https://github.com/Hu-tao-bot/genshin.py)
 - FastAPI JWT (Monify from FastAPI JWT Auth)
-- [FastAPI RateLimit (Monify from FastAPI Limiter)](https://github.com/long2ice/fastapi-limiter)
+- [FastAPI RateLimit (Monify from FastAPI Limiter)](https://github.com/long2ice/fastapi-limiter) 
 - ~~Error tracking~~ **(Deprecated)**
 
 # Screenshot
@@ -64,8 +64,9 @@ A: Sorry, I can't do it. Because in Third party account block access another URL
 ## Q: I want to login with my account. How to do it?
 A: You can enter site https://hutao-bot.m307.dev to login genshin account.
 
-## Q: I can't invite bot to my server.
-A: The bot is now rate limited invite from Discord. Please wait 2 - 4 week to waiting get verified bot. **Status: Not verified 😓**
+## ~~Q: I can't invite bot to my server.~~
+~~A: The bot is now rate limited invite from Discord. Please wait 2 - 4 week to waiting get verified bot.~~
+**( Update: Bot has got verified so you can invite me to your server. 🥳🎉 [ 29 March 2022 ] )**
 
 ## Q: Why character's list has shown only 8 character?
 A: Because you have login with UID or HoyolabID. If you want to see all character's list, you have to login with Token or E-mail & Password
