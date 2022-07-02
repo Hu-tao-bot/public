@@ -10,14 +10,14 @@
 ![Charecters_list](./charecters_list.png)
 ![Charecters_info](./charecters_info.png)
 
-## Summery Info, World and seapot
-![Summery_info](./summery_info.png)
-![Summery_world](./summery_world.png)
-![Summery_seapot](./summery_seapot.png)
+## summary Info, World and teapot
+![summary_info](./summary_info.png)
+![summary_world](./summary_world.png)
+![summary_teapot](./summary_teapot.png)
 
 ## Abyss Info, Floor (Ex. 10)
 ![Abyss_info](./abyss_info.png)
-![Summery_World](./abyss_floor.png)
+![summary_World](./abyss_floor.png)
 
 ## Redeem Code
 ![Redeem_code](./redeem_code.png)

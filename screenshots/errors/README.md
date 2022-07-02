@@ -22,7 +22,7 @@
 ## Rate limit error (Too many enter command)
 ![Redeem code Cookie token required](./rate_limit.png)
 
-## Data not found (Seapot)
+## Data not found (teapot)
 ![Data not found](./data_not_found.png)
 
 ## Unknow error
