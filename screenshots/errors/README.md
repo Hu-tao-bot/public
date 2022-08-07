@@ -13,7 +13,9 @@
 ![Abyss floor not found](./abyss_floor_not_found.png)
 ![Abyss floor range error](./abyss_floor_range_exceptions.png)
 
-## Redeem code error (invaild, already claimed, AR. Low, Cookie Token required)
+## Wish banner error (Not found)
+
+## Redeem code error (Invaild, already claimed, AR. Low, Cookie Token required)
 ![Redeem code invaild](./redeem_code_invaild_or_expired.png)
 ![Redeem code already claimed](./redeem_code_already_claimed.png)
 ![Redeem code AR. low](./redeem_code_ar_low.png)
